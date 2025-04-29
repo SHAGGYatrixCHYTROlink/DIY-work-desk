@@ -8,4 +8,3 @@ This desk is an inspiration for how you can create your own modifiable desk for 
 This is so good on this desk that you can easily modify and create new versions or components.
 If you want you can easilz change the desk for example on other your own design. The components are disassembled and reusable.
 This design takes into account the changes or reusability of components.
-
