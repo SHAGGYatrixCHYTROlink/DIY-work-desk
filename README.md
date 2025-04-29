@@ -1,7 +1,5 @@
 This my DIY desk for inspiration
-
 (Tinker - Connect cube version: https://www.tinkercad.com/things/iLWGFwkEKcd-diy-work-desk)
-
 (Tinker - Screws and nuts version: https://www.tinkercad.com/things/dIHRDAnRvCL-diy-work-desk-vssrew)
 
 This design takes into account the changes or reusability of wooden, metal or plastic components in advance.
