@@ -1,27 +1,31 @@
 **About: DIY - Work Desk inspiration**  
-*(Tinker editor ref to a desk 3D model- A) Screw version: https://www.tinkercad.com/things/dIHRDAnRvCL-diy-work-desk-vssrew)*  
-*(Tinker editor ref to a desk 3D model- B) Connect cube version: https://www.tinkercad.com/things/iLWGFwkEKcd-diy-work-desk)*  
+*(Tinker editor ref to a desk 3D model-  
+A) Screw version: https://www.tinkercad.com/things/dIHRDAnRvCL-diy-modificable-work-desk-stationversionsrewnut*  
+*B) Connect cube version: https://www.tinkercad.com/things/iLWGFwkEKcd-diy-modificable-work-desk-stationversionconnectcube)*  
 
-This desk design takes into account the changes or reusability of wooden, metal or plastic components in advance.
+Desk design takes into account the changes or reusability of wooden, metal or 3D printed plastic components in advance.
 
-This desk is an inspiration for how you can create your own modificable desk for a PC or like a work desk or for other uses.  
-You can easily modify or create new versions of your own desk and components design.  
-If you want you can easily change the desk components in TinkerCad.  
-You can find reference to free TinkerCad editor for every 3D printed component or desk model. and you can try edit and mix it. :]  
+This repository serve as an inspiration for how you can create your own modificable desk.  
+You can easily modify or add new versions of your own desk and components designs.  
+If you want you can easily change the desk components in TinkerCad editor.  
+You can find reference to free TinkerCad editor for every 3D printed component. You can open desk 3D model and you can try edit and mix it. :]  
 The components are disassembled and reusable. This design takes into account the changes or reusability of components.  
+In future a planned some other DIY furtnite compatible with components in this repository.
 
 [ I prepare the Wiki with components, foto and ref to tinker. :} ]
+_____________________________________________________________________________________________________________
 
-**A) Screw version**
-**You can find all components and plan of components in at 3D model here=> https://www.tinkercad.com/things/dIHRDAnRvCL-diy-work-desk-vssrew)**
-
+**A) Screw version**  
+**You can find all components and plan of components like a colored and modificable 3D model here=>  
+https://www.tinkercad.com/things/dIHRDAnRvCL-diy-modificable-work-desk-stationversionsrewnut)**  
+___________________________________________________________________________________________________________
 **Components: 3D print**  
 *Basic components=>  
-12x Universal board(Claddingboard version compatible) connector with screw fixage  
+12x Universal board connector with screw fixage  
+*(TinkerCad=> https://www.tinkercad.com/things/lbwZP9ShObs-universal-board-connector)*
 
 2x Set of Axial Cladding-board holder  
-
-*(TinkerCad for both=> Universal board connector with screw fix for xy1,5cm square tube - https://www.tinkercad.com/things/lbwZP9ShObs-universal-board-connector-with-screw-fix-for-xy15cm-square-tube)*  
+*(TinkerCad=> https://www.tinkercad.com/things/gGrnQ8xpHu6-axial-cladding-board-holder)*
 
 
 **Optional Accesoris=>  
@@ -30,44 +34,48 @@ Cladding board groove holder for various adapters
 
 Organizer for opened boxes  
 *(TinkerCad=> https://www.tinkercad.com/things/ckI07QQy4gE-organizer-for-opened-boxes)*  
-
+________________________________________________________________________________________________________
 **Components: Wood**  
 *Basic components=>  
+Desk board: 1pcs - Wooden board  
+L110 x W60 x H1.8 /cm  
+*(For example shop=> https://allegro.cz/nabidka/deska-stolu-kancelar-dub-bily-120x60-ikea-lagkapten-16120209488?utm_medium=cpc&utm_source=bing.com&utm_feed=cb859801-e78b-4820-9b32-5345d997b58b&utm_source=bing.com&utm_medium=cpc&utm_campaign=CZ%3EHome%3EALL%3EPLA&msclkid=ddaf98275a0815775548f033e536f774)*
+
 Back accesories wall: 7pcs -Cladding boards 12,5x96mm  
 L110 x W9,6 x H1,25 /cm  
-*(Obi shop=> https://www.obi.cz/profilove-drevo/rettenmeier-obkladova-palubka-standard-smrk-jedle-kvalita-b-210-x-1-25-x-9-6-cm/p/1287549)*  
+*(For example shop=> https://www.obi.cz/profilove-drevo/rettenmeier-obkladova-palubka-standard-smrk-jedle-kvalita-b-210-x-1-25-x-9-6-cm/p/1287549)*  
 
 Back legs connectives: 1pcs - Wooden lath clear 18mm  
-105x5x1.8 /cm  
-(For example bauhaus shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)  
+L105 x W5 x H1.8 /cm  
+*(For example shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)*  
 
 Front+Back legs connectives: 2pcs - Wooden lath clear 18mm  
-70x5x1.8 /cm  
-(For example bauhaus shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)  
+L70 x W5 x H1.8 /cm  
+*(For example shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)*  
 
 Front+Back legs pads: 2pcs - Wooden lath clear 18mm  
-70x5x1.8 /cm  
-(For example bauhaus shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)  
-
+L70 x W5 x H1.8 /cm  
+*(For example shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)*  
+____________________________________________________________________________________  
 **Components: Iron**  
 *Basic components=>  
 Front + Back frame components: 2pcs - square tube 15mm  
-100x1,5x1,5 /cm  
-(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)
+L100 x W1,5 x H1,5 /cm  
+*(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)*
 
 Left + Right frame components: 2pcs - square tube 15mm  
-60x1,5x1,5 /cm  
-(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)
+L60 x W1,5 x H1,5 /cm  
+*(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)*
 
 Back legs: 2pcs - square tube 15mm  
-140x1,5x1,5 /cm  
-(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)
+L140 x W1,5 x H1,5 /cm  
+*(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)*
 
 Front legs: 2pcs - square tube 15mm  
-70x1,5x1,5 /cm  
-(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)
-
-**Connect Components** 
+L70 x W1,5 x H1,5 /cm  
+*(shop=> https://www.pro-doma.cz/jekl-ctvercovy-15-x-15-x-1-5-mm)*
+___________________________________________________________________________________  
+**Connect Components**  
 *Basic components=>  
 14x M8 Screws and nuts  
 M8x70mm  
