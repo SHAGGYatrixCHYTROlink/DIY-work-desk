@@ -22,13 +22,13 @@ https://www.tinkercad.com/things/dIHRDAnRvCL-diy-modificable-work-desk-stationve
 _____________________________________________________________________________________________________________  
 **Main Connect Components**  
 *Basic components=>  
-14x M8 Screws and nuts  
+Frame and legs connect: 14x M8 Screws and nuts  
 M8x70mm  
 (For example shop=> https://allegro.cz/nabidka/m8x70-nerezove-srouby-a2-din-933-100ks-16156024792?utm_medium=cpc&utm_source=bing.com&utm_feed=cb859801-e78b-4820-9b32-5345d997b58b&utm_source=bing.com&utm_medium=cpc&utm_campaign=CZ%3EHome%3EALL%3EPLA&msclkid=a317f3299c8d1edf308a9b3a4b240ee8  
 For example shop=> https://www.pktechnik-trailers.com/matice/matice-m8-samojistna--8--din-985--zn/?msclkid=c908aeede81118124784c6fe30cfefc3&utm_source=bing&utm_medium=cpc&utm_campaign=1%20%7C%20PLA%20%7C%20ZNA%C4%8CKY&utm_term=4586406602859173&utm_content=ostatn%C3%AD%20zbo%C5%BE%C3%AD)
 
 **Optional Components=>  
-Screw pads M8  
+Screw and nuts accessories: Screw pads M8  
 (For example shop=> https://podlozky-distancni.heureka.cz/podlozka-din-9021-m8-8_4x24x2-zb-pod-nyt-csn-02-1726-baleni-500-ks/?msclkid=0784ec7dccce1d37bd23846e15694ea6&utm_source=bing&utm_medium=cpc&utm_campaign=CZ%3EPRF%3EHG%3EDum_a_zahrada%3ESERP%3EPROD%3E(PLA)&utm_term=4574793027946151&utm_content=Dum%20a%20zahrada#prehled/)
 
 ___________________________________________________________________________________________________________  
