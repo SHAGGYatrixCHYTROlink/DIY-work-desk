@@ -10,7 +10,7 @@ You can easily modify or add new versions of your own desk and components design
 If you want you can easily change the desk components in TinkerCad editor.  
 You can find reference to free TinkerCad editor for every 3D printed component. You can open desk 3D model and you can try edit and mix it. :]  
 The components are disassembled and reusable. This design takes into account the changes or reusability of components.  
-In future a planned some other DIY furtnite compatible with components in this repository.
+In future I planned some other DIY furtnite compatible with components in this repository.
 
 [ Wiki and other DIY furtnite and accessories designs comming soon. :) Share your new desk, furtnite and accessories designs.  
 I look forward to the new designs. ]
