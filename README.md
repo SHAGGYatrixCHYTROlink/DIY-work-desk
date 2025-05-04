@@ -22,7 +22,7 @@ https://www.tinkercad.com/things/iLWGFwkEKcd-diy-modificable-work-desk-stationve
 _____________________________________________________________________________________________________________  
 **Main Connect Components**  
 *Basic components=>  
-Frame and legs connect: 4pcs Connect Cube with screw
+Frame and legs connect: 4pcs Connect Cube with screw  
 *(TinkerCad=> https://www.tinkercad.com/things/1syRHuF98GG-diy-work-desk-connect-cube)*  
 ___________________________________________________________________________________________________________  
 
