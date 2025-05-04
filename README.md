@@ -91,3 +91,6 @@ ________________________________________________________________________________
 
 
 I wish you have a nice time and fun while creating and testing your own desk station and accessories designs. :)
+
+For motivation my prototype of Work desk station is here:
+![Můj obrázek](https://github.com/SHAGGYatrixCHYTROlink/DIY-work-desk/blob/DIY---Modificable-Work-Desk-Station(version%3Dsrew%26nut)/IMG_20250504_143800.jpg)
