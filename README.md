@@ -16,22 +16,16 @@ In future a planned some other DIY furtnite compatible with components in this r
 I look forward to the new designs. ]
 _____________________________________________________________________________________________________________  
 
-**A) Screw version**  
+**B) Connect cube version**  
 **You can find all components and plan of components like a colored and modificable 3D model here=>  
-https://www.tinkercad.com/things/dIHRDAnRvCL-diy-modificable-work-desk-stationversionsrewnut)**  
+https://www.tinkercad.com/things/iLWGFwkEKcd-diy-modificable-work-desk-stationversionconnectcube)**  
 _____________________________________________________________________________________________________________  
 **Main Connect Components**  
 *Basic components=>  
-14x M8 Screws and nuts  
-M8x70mm  
-(For example shop=> https://allegro.cz/nabidka/m8x70-nerezove-srouby-a2-din-933-100ks-16156024792?utm_medium=cpc&utm_source=bing.com&utm_feed=cb859801-e78b-4820-9b32-5345d997b58b&utm_source=bing.com&utm_medium=cpc&utm_campaign=CZ%3EHome%3EALL%3EPLA&msclkid=a317f3299c8d1edf308a9b3a4b240ee8  
-For example shop=> https://www.pktechnik-trailers.com/matice/matice-m8-samojistna--8--din-985--zn/?msclkid=c908aeede81118124784c6fe30cfefc3&utm_source=bing&utm_medium=cpc&utm_campaign=1%20%7C%20PLA%20%7C%20ZNA%C4%8CKY&utm_term=4586406602859173&utm_content=ostatn%C3%AD%20zbo%C5%BE%C3%AD)
-
-**Optional Components=>  
-Screw pads M8  
-(For example shop=> https://podlozky-distancni.heureka.cz/podlozka-din-9021-m8-8_4x24x2-zb-pod-nyt-csn-02-1726-baleni-500-ks/?msclkid=0784ec7dccce1d37bd23846e15694ea6&utm_source=bing&utm_medium=cpc&utm_campaign=CZ%3EPRF%3EHG%3EDum_a_zahrada%3ESERP%3EPROD%3E(PLA)&utm_term=4574793027946151&utm_content=Dum%20a%20zahrada#prehled/)
-
+Frame and legs connect: 4pcs Connect Cube with screw
+*(TinkerCad=> https://www.tinkercad.com/things/1syRHuF98GG-diy-work-desk-connect-cube)*  
 ___________________________________________________________________________________________________________  
+
 **Components: 3D print**  
 *Basic components=>  
 Back-legs accesories wall connector: 12pcs Universal board connector with screw fixage  
@@ -48,6 +42,7 @@ Other accesories: Cladding board groove holder for various adapters
 Other accesories: Stackable organizer for opened boxes  
 *(TinkerCad=> https://www.tinkercad.com/things/ckI07QQy4gE-stackable-organizer-for-opened-boxes)*  
 ________________________________________________________________________________________________________  
+
 **Components: Wood**  
 *Basic components=>  
 Desk main board: 1pcs - Wooden board  
@@ -70,6 +65,7 @@ Front+Back legs pads slats: 2pcs - Wooden lath clear 18mm
 L70 x W5 x H1.8 /cm  
 *(For example shop=> https://www.bauhaus.cz/konstrukcni-drevo-21335208)*  
 ____________________________________________________________________________________  
+
 **Components: Iron**  
 *Basic components=>  
 Front + Back frame components: 2pcs - square tube 15mm  
