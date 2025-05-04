@@ -16,7 +16,7 @@ In future I planned some other DIY furtnite compatible with components in this r
 I look forward to the new designs. ]
 _____________________________________________________________________________________________________________  
 
-**B) Connect cube version**  
+**B) Connect cube version - NON-TESTED PROTOTYPE**  
 **You can find all components and plan of components like a colored and modificable 3D model here=>  
 https://www.tinkercad.com/things/iLWGFwkEKcd-diy-modificable-work-desk-stationversionconnectcube)**  
 _____________________________________________________________________________________________________________  
