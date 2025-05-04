@@ -28,14 +28,20 @@ ________________________________________________________________________________
 
 **Components: 3D print**  
 *Basic components=>  
-Back-legs accesories wall connector: 12pcs Universal board connector with screw fixage  
+Back-legs accesories wall connector: 12pcs Universal board connector with screw fixage (Claddingboard version compatible)  
 *(TinkerCad=> https://www.tinkercad.com/things/lbwZP9ShObs-universal-board-connector)*  
 
 Back-legs accesories axial shelf holder: 2pcs Set of Axial Cladding-board holder  
-*(TinkerCad=> https://www.tinkercad.com/things/gGrnQ8xpHu6-axial-cladding-board-holder)*
+*(TinkerCad=> https://www.tinkercad.com/things/gGrnQ8xpHu6-axial-cladding-board-holder)*  
 
+Legs connective slats connector: 6pcs Universal board connector (Connective Slat version compatible)  
+*(TinkerCad=> https://www.tinkercad.com/things/lbwZP9ShObs-universal-board-connector)*  
 
 **Optional Accesories=>  
+Under board pad: 2pcs Under board pad 3,99 cm ; 6pcs 1,99 cm  
+*(TinkerCad=> https://www.tinkercad.com/things/e0RgjN2Ym3Q-under-board-pads  
+TinkerCad component is mix of=> https://www.tinkercad.com/things/lbwZP9ShObs-universal-board-connector)*  
+
 Other accesories: Cladding board groove holder for various adapters  
 *(TinkerCad=> https://www.tinkercad.com/things/kKc4AlJkcQV-cladding-board-groove-holder-for-various-adapters)*  
 
